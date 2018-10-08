@@ -1,0 +1,4 @@
+C:\Users\James\source\repos\CheckoutKataV2\ConsoleApp1\obj\Debug\CheckoutKata.csprojAssemblyReference.cache
+C:\Users\James\source\repos\CheckoutKataV2\ConsoleApp1\obj\Debug\CheckoutKata.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\CheckoutKataV2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\James\source\repos\CheckoutKataV2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
